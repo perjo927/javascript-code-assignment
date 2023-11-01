@@ -37,7 +37,7 @@ It is OK to review and discuss any reference solutions as well, as the interview
 
 > cd ./javascript-code-assignment
 
-> npm install
+> npm ci
 
 > npm test
 
