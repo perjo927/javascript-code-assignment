@@ -35,7 +35,7 @@ It is OK to review and discuss any reference solutions as well, as the interview
 
 > git clone https://github.com/perjo927/javascript-code-assignment.git
 
-> cd javascript-code-assignment.git
+> cd ./javascript-code-assignment
 
 > npm install
 
