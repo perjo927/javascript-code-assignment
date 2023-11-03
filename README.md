@@ -18,7 +18,7 @@ It is OK to review and discuss any reference solutions as well, as the interview
 
 ## Requirements
 
-1. Fork and clone the repo, create a new branch from main and name it `assignment/<your-name-here>`. Make the repository public.
+1. Clone the repository, create a new branch from main and name it `assignment/<your-name-here>`. Make the repository public.
 
 2. Fix the existing piece of code in **./test.js** so that the unit tests pass. Assert the functionality by executing `npm run test`. When the unit tests pass you can assume that the code works as intended. There will also be a nice looking table logged to the console.
 
