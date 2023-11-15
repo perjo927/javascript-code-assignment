@@ -1,5 +1,7 @@
 var assert = require('assert');
 
+console.log("Hello World!")
+
 // ASSIGNMENT CODE BEGIN //
 var numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
 let squaredEvenNumbers = [];
